@@ -27,7 +27,7 @@ LSX_ and lsx_ symbols should not be used by libSoX-based applications.
 #if defined(__cplusplus)
 extern "C" {
 #endif
- 
+
 
 //  #define  __unused UNUSED
 
